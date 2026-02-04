@@ -215,9 +215,10 @@ This project demonstrates strong skills in:
 
 ## 👨‍💻 Author
 
-**Prafull Wahatule**
-🎓Data Analyst | Power BI Developer
-🔗 GitHub: [https://github.com/prafull816](https://github.com/prafullwahatule)
+
+**👤 Name:** Prafull Wahatule - Data Analyst | Power BI Developer  
+**📧 Email:** [prafullwahatule@gmail.com](mailto:prafullwahatule@gmail.com)  
+**💻 GitHub:** [prafullwahatule](https://github.com/prafullwahatule)  
 
 ---
 
@@ -230,3 +231,4 @@ If you like this project, consider giving it a **⭐ on GitHub** — it helps a 
 ## 📜 License
 
 This project is licensed under the **MIT License** — see the `LICENSE` file for details.
+
